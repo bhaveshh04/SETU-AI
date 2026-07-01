@@ -1,7 +1,9 @@
 # SETU.AI — Intelligent AI Tutoring Platform
-
 A full-stack AI tutoring platform built with RAG (Retrieval-Augmented Generation), 
 enabling contextual question answering from structured and unstructured knowledge sources.
+
+## 🚀 Live Demo
+🌐 [Try SETU.AI Live](https://setuai-five.vercel.app/login)
 
 ## 🛠️ Tech Stack
 - **Backend:** Spring Boot, LangChain, OpenAI/Groq APIs, FAISS, RAG Pipeline
